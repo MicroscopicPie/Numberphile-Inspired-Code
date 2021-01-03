@@ -78,3 +78,4 @@ for m in range (0,n2):
 plt.matshow(numberspiral,cmap='binary_r', vmin=0, vmax=1)
 plt.axis('off')
 
+plt.savefig('Ulams Spiral.tiff', format='tiff', dpi=2000)
