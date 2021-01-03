@@ -1,6 +1,8 @@
-# Ulams_Spiral_Creator
-Makes an square array of size n, filled with numbers starting at 1 and continuing in a spiral pattern
+# Overview of my Code
+The Ulam's Spiral Code:
+Creates a n by n spiral and then either removes all prime of perfect number values. It then plots this as an image
 
-Can then take out all non-prime or non-perfect numbers
-
-Plots the resulting square matrix using plt.matshow
+The Knight Movement Code:
+Creates a n by n spiral and then creates a pattern by calculating how a knight would move if it could only travel to the 
+smallest square it hadn't yet visited. It then plots the knights journey on top of a numberspiral as well as where exactly the knight lands 
+and the knights starting and end points
