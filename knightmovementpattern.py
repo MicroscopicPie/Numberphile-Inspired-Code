@@ -1,8 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-print("Input a value for n:\n")
-n=int(input(""))
+n=70
 n1=n
 n2=n
 
